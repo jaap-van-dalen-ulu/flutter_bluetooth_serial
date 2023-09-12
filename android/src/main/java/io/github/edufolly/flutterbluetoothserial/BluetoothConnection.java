@@ -5,7 +5,7 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.util.UUID;
 import java.util.Arrays;
-import android.os.ParcelUuid
+import android.os.ParcelUuid;
 
 import android.bluetooth.BluetoothAdapter;
 import android.bluetooth.BluetoothDevice;
